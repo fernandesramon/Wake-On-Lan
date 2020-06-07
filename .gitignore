@@ -3,3 +3,4 @@
 *.app
 *.icns
 .env
+*.platypus
